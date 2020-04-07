@@ -1,0 +1,2 @@
+dentro da pasta backend digite o comando yarn para instalar os pacotes
+digite o comando yarn dev para iniciar a aplicação

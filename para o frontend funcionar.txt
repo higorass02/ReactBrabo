@@ -1,0 +1,2 @@
+dentro da pasta frontend digite o comando yarn para instalar os pacotes
+digite o comando yarn start para iniciar a aplicação
